@@ -20,10 +20,10 @@ div{
 }
 
 img {
-    width: 24vh;
-    height: 24vh;
+    width: 22vh;
+    height: 22vh;
     position: relative;
-    top: 38vh;
+    top: 39vh;
     animation: rotation 24s infinite linear;
 }
 
