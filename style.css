@@ -26,7 +26,3 @@ img {
     top: 36vh;
     animation: rotation 24s infinite linear;
 }
-
-a {
-    cursor: default;
-}
