@@ -23,7 +23,7 @@ img {
     width: 22vh;
     height: 22vh;
     position: relative;
-    top: 2vh;
+    top: 36vh;
     animation: rotation 24s infinite linear;
 }
 
